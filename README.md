@@ -37,4 +37,3 @@ Logical error rate of the surface code is calculated for the various noise model
 - `sc-class 1.ipynb` Class 1 is defined as errors that occur on the measure qubits, namely initialization, measurement and Hadamard operations
 - `sc-class 2.ipynb` Class 2 is defined as errors in the measure qubit, data qubit CNOT operations
 
-<img src="figs/log_err_sc_memory.jpeg" alt="Logical error of surface code memory" width="300">
