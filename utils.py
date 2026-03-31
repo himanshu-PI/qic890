@@ -2,6 +2,8 @@ import stim
 import pymatching
 import numpy as np
 from gates import * 
+from joblib import Parallel, delayed
+
 
 import matplotlib.pyplot as plt
 plt.rcParams['font.family'] = 'Google Sans'
